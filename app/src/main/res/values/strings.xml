@@ -1,0 +1,34 @@
+<resources>
+    <string name="titulo_nombre">Horóscopo Chino</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="text_apellidos">Apellidos</string>
+    <string name="text_dia">Día</string>
+    <string name="text_mes">Mes</string>
+    <string name="text_anio">Año</string>
+    <string name="text_calcular">Calcular</string>
+    <string name="toastValidaNombre">"Por favor ingresa tu "</string>
+    <string name="toastNombre">nombre.</string>
+    <string name="toastApellido">apellido.</string>
+    <string name="errorRequerido">Requerido</string>
+    <string name="toastValidaDia">Por favor ingresa un día válida.</string>
+    <string name="toastValidaMes">Por favor ingresa un mes válido.</string>
+    <string name="toastIngresaDia">Por favor ingresa un día.</string>
+    <string name="toastIngresaMes">Por favor ingresa un mes.</string>
+    <string name="toastIngresaAnio">Por favor ingresa un año.</string>
+    <string name="text_Signo">"Tu signo es "</string>
+    <string name="text_Saludo">"Hola "</string>
+    <string name="text_Edad">"Tienes "</string>
+    <string name="text_Anios">" años."</string>
+    <string name="text_Buey">Buey</string>
+    <string name="text_Caballo">Caballo</string>
+    <string name="text_Cabra">Cabra</string>
+    <string name="text_Cerdo">Cerdo</string>
+    <string name="text_Conejo">Conejo</string>
+    <string name="text_Dragon">Dragón</string>
+    <string name="text_Gallo">Gallo</string>
+    <string name="text_Mono">Mono</string>
+    <string name="text_Perro">Perro</string>
+    <string name="text_Rata">Rata</string>
+    <string name="text_Serpiente">Serpiente</string>
+    <string name="text_Tigre">Tigre</string>
+</resources>

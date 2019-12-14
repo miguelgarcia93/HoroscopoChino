@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo_nombre">Chinese Zodiac</string>
+    <string name="text_nombre">First Name</string>
+    <string name="text_apellidos">Last Name</string>
+    <string name="text_dia">Day</string>
+    <string name="text_mes">Month</string>
+    <string name="text_anio">Year</string>
+    <string name="text_calcular">Calculate</string>
+    <string name="toastValidaNombre">"Please enter your "</string>
+    <string name="toastNombre">first name.</string>
+    <string name="toastApellido">last name.</string>
+    <string name="errorRequerido">Required</string>
+    <string name="toastValidaDia">Please enter a valid day.</string>
+    <string name="toastValidaMes">Please enter a valid month.</string>
+    <string name="toastIngresaDia">Please enter a day.</string>
+    <string name="toastIngresaMes">Please enter a month.</string>
+    <string name="toastIngresaAnio">Please enter a year.</string>
+    <string name="text_Signo">Your sign is</string>
+    <string name="text_Saludo">"Hello "</string>
+    <string name="text_Edad">"You are "</string>
+    <string name="text_Anios">" years old."</string>
+    <string name="text_Buey">Ox</string>
+    <string name="text_Rata">Rat</string>
+    <string name="text_Tigre">Tiger</string>
+    <string name="text_Conejo">Rabbit</string>
+    <string name="text_Dragon">Dragon</string>
+    <string name="text_Serpiente">Snake</string>
+    <string name="text_Caballo">Horse</string>
+    <string name="text_Cabra">Goat</string>
+    <string name="text_Cerdo">Pig</string>
+    <string name="text_Mono">Monkey</string>
+    <string name="text_Perro">Dog</string>
+    <string name="text_Gallo">Rooster</string>
+</resources>
